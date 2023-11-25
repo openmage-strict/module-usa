@@ -1,0 +1,4 @@
+src/app/code/core/Mage/Usa/                                     app/code/core/Mage/Usa/
+src/app/design/adminhtml/default/default/template/usa/          app/design/adminhtml/default/default/template/usa/
+src/app/etc/modules/Mage_Usa.xml                                app/etc/modules/Mage_Usa.xml
+src/app/locale/en_US/Mage_Usa.csv                               app/locale/en_US/Mage_Usa.csv
