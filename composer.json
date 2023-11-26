@@ -5,7 +5,7 @@
     "type": "magento-module",
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "openmage-strict/module-sales": "*",
-        "openmage-strict/module-shipping": "*"
+        "openmage-strict/module-sales": "^120.2",
+        "openmage-strict/module-shipping": "^120.2"
     }
 }
