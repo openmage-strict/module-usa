@@ -187,7 +187,7 @@
                 <shipment_requesttype>0</shipment_requesttype>
                 <handling/>
                 <machinable>true</machinable>
-                <methods></methods>
+                <methods/>
                 <model>usa/shipping_carrier_usps</model>
                 <size>REGULAR</size>
                 <title>United States Postal Service</title>
